@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arafshah19.github.io/sitemap.xml
